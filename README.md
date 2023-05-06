@@ -12,7 +12,7 @@ nanoESP32-C6
 # nanoESP32-C6介绍
 nanoESP32-C6 是MuseLab基于乐鑫ESP32-C6系列模组推出的开发板，板载USB转串口，TYPE-C、全彩LED，同时引出调试烧录串口和ESP32-C6本身的USB接口，更方便日常的开发测试。
 
-![nanoESP32-C6](https://github.com/wuxx/nanoesp32-s2/blob/master/doc/nanoESP32-C6.jpg)
+![nanoESP32-C6](https://github.com/wuxx/nanoesp32-c6/blob/master/doc/nanoESP32-C6.jpg)
 
 # 功能框图
 ![nanoESP32-C6](https://github.com/wuxx/nanoesp32-c6/blob/master/doc/ESP32-C6.png)
