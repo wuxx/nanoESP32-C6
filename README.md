@@ -35,6 +35,6 @@ $idf.py -p /dev/ttyACM0 flash monitor
 ### esp-idf
 https://github.com/espressif/esp-idf
 ### esp32-c6 get-started
-https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/
 ### esp32-c6
 https://www.espressif.com/zh-hans/products/socs/esp32-c6
