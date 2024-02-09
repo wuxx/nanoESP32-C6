@@ -38,3 +38,6 @@ https://github.com/espressif/esp-idf
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/
 ### esp32-c6
 https://www.espressif.com/zh-hans/products/socs/esp32-c6
+
+## ARDUINO IDE
+![ide](./ArduinoBoard.png)
