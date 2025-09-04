@@ -26,7 +26,8 @@ $idf.py -p /dev/ttyACM0 flash monitor
 
 ```
 # Product Link
-[nanoESP32-C6 Board](https://www.aliexpress.us/item/3256805322371819.html?spm=a2g0s.12269583.0.0.41d93b9eV4OIj5&gatewayAdapt=glo2usa&_randl_shipto=US)
+[Aliexpress](https://www.aliexpress.us/item/3256805322371819.html?spm=a2g0s.12269583.0.0.41d93b9eV4OIj5&gatewayAdapt=glo2usa&_randl_shipto=US)
+[Tindie](https://www.tindie.com/products/johnnywu/nanoesp32-c6-development-board)
 
 # Reference
 ### esp-idf
